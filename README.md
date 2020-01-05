@@ -1,3 +1,5 @@
+*DEPRECATED. I've now moved my ESPHome configs to the same repo as my Home Assistant config. See [here](https://github.com/johnboiles/homeassistant-config/tree/master/esphome) for my ESPHome configs.*
+
 # ESPHome Air Sensor
 
 My ESPHome YAML configuration for my MHZ19 CO2 sensor + DHT22 temperature/humidity sensor + PMS5003 particulate sensor.
